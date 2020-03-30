@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mesmo codigo
+=======
+essa linha foi modificada no ramo teste
+>>>>>>> teste
